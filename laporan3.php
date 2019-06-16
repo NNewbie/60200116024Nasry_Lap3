@@ -2,7 +2,7 @@
 	
 	$x = "Halo Nasry";
 	echo $x;
-	$y = "Selamat Berbuka Puasa";
+	$y = "Halo Bro";
 	echo $y;
 
  ?>
